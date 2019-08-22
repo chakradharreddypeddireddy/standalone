@@ -60,7 +60,7 @@
     
     <id>jfrog</id>
      <name>releaseversion</name>
-     <url>http://localhost/artifactory/standalone_local</url>
+     <url>http://localhost:8081/artifactory/standalone_local</url>
   </repository>
 </distributionManagement>
 </project>
